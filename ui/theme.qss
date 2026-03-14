@@ -1,0 +1,17 @@
+/* Tema JARVIS*/
+
+QWidget {
+    background-color: #05080f;
+    color: #8fd3ff;
+    font-family: "Segoe UI";
+}
+
+QLabel {
+    color: #8fd3ff;
+}
+
+QFrame {
+    background-color: rgba(10, 20, 40, 180);
+    border: 1px solid rgba(0, 180, 255, 120);
+    border-radius: 6px;
+}
