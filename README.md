@@ -1,4 +1,4 @@
-# J.A.R.V.I.S. — v1.5 Beta
+# J.A.R.V.I.S. — v1.5 Beta - PYTHON/PORTABLE (EXE)
 <img width="1242" height="751" alt="Captura de tela 2026-02-13 175443" src="https://github.com/user-attachments/assets/0e048b6a-fdcf-45e1-97dd-d85a4b10c4fc" />
 README PT-BR / EN
 
@@ -16,8 +16,9 @@ Assistente inteligente local inspirado no J.A.R.V.I.S. do Tony Stark do MCU, des
 🔧 Instruções:
 1. Instale o Python [Aqui](https://www.python.org/downloads/)
 2. Baixar o Ollama (Opcional) [Aqui](https://ollama.com/download) , Abrir e deixar na Bandeja do WIN com o modelo Qwen3-480b-Cloud Selecionado
-3. Baixe o Projeto e rodar:
+3. Baixe o Projeto em Releases, Versão PORTABLE Recomendada!:
 4. ```bash
+   //para versão python baixe e rode
    pip install -r requirements.txt
 5. Criar um API no Ollama Grátis [Clique](https://ollama.com/settings/keys)
 6. Criar um API GEMINI Grátis [Clique](https://aistudio.google.com/api-keys)
